@@ -1,6 +1,10 @@
 //============================================================================
 // Name        : Inheritance.cpp
 /*
+ * 	class superClass
+ * 		{
+ * 		 -normal class stuff here-
+ * 		};
  *
  *	class subClass: public superClass
  *		{
